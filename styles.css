@@ -10,3 +10,12 @@
 [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng.ng-cloak {
     display: none !important;
 }
+
+table {
+    width: 500px;   
+}
+
+th {
+    text-align: left;
+    background-color: #efefef;
+}

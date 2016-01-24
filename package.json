@@ -1,0 +1,24 @@
+{
+  "name": "angularjs-jumpstart",
+  "version": "1.0.0",
+  "description": "Angular JS Jump Start Tutorial",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulpisal/angularjs-jumpstart.git"
+  },
+  "author": "Rahul Pisal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulpisal/angularjs-jumpstart/issues"
+  },
+  "homepage": "https://github.com/rahulpisal/angularjs-jumpstart#readme"
+}

@@ -1,21 +1,27 @@
-.red {
-    color: red;
-}
-
-.navy {
-    color: navy;   
-}
-
-/* ng-cloak */
-[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng.ng-cloak {
-    display: none !important;
-}
-
-table {
-    width: 500px;   
+body {
+    overflow: hidden;   
 }
 
 th {
     text-align: left;
     background-color: #efefef;
+    cursor: pointer;
+}
+
+tr.footer {
+    background-color: #efefef;
+}
+
+main {
+    margin-left: 12px;
+    margin-right:25px;
+}
+
+.center {
+    text-align: center;   
+}
+
+.delete {
+    color: red; 
+    cursor: pointer;
 }
